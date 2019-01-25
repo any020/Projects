@@ -1,2 +1,2 @@
 # Projects
-# Sommerprosjekter 2018
+# Summer 2018
